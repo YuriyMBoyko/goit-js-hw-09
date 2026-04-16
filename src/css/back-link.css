@@ -6,6 +6,7 @@
   border: 1px solid;
   border-radius: 8px;
 }
+/*
 .back-link::before {
   content: '';
   position: absolute;
@@ -27,3 +28,4 @@
   opacity: 1;
   animation-play-state: running;
 }
+*/
