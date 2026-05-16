@@ -32,7 +32,7 @@ const lightbox = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
   captionDelay: 250,
 });
-
+/*
 lightbox.on('shown.simplelightbox', function() {
   document.addEventListener('click', onMouseClick);
 });
@@ -47,3 +47,4 @@ function onMouseClick(event) {
   if (event.target.closest('.sl-image img'))
     lightbox.close();
 }
+*/
